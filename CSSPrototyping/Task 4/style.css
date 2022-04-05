@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+.products{
+
+}
+.products-content{
+ width: 1300px;
+ margin: 0px auto;
+
+}
+.products-content-item{
+    width: 25%;
+    height: 300px;
+    margin: 50px;
+    display: inline-block;
+
+    
+}
+.products-content-item img{
+    width: 300px;
+}
+
+h1{
+    text-align:center;
+    color: blue;
+}
