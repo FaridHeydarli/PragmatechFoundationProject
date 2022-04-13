@@ -3,7 +3,6 @@
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
-
 }
 
 .container{
@@ -45,9 +44,18 @@ li a:hover{
     color: #292929;
 }
 .slider{
-    height: 940px;
+    height: 750px;
     background-size: cover;
     background-image: url(/image/slide-bg-1.jpg);
     background-repeat: no-repeat;
     background-position: center center;
+}
+
+.positions{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #ffffff;
+    width: 100%;
+    padding: 25px 35px;
 }
