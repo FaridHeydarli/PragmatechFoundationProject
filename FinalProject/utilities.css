@@ -14,3 +14,7 @@
 .border-blue{
     border: 1px solid blue;
 }
+
+.jcb{
+    justify-content: space-between;
+}

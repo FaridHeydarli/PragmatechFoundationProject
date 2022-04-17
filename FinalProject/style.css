@@ -1,3 +1,5 @@
+/*navbar start*/
+
 .navbar-container{
     width: 1200px;
     margin: 0px auto;
@@ -8,6 +10,7 @@
 .container{
     width: 1200px;
     margin: 0px auto;
+    height: inherit;
 }
 .flex{
     display: flex;
@@ -58,6 +61,10 @@ a{
     padding: 20px 20px;
 }
 
+/* navbar end*/
+
+/* social start*/
+
 .social{
     width: 100vw;
     height: 100vh;
@@ -104,4 +111,42 @@ a{
     box-sizing: border-box;
 }
 
+/* social end*/
 
+/* service start */
+
+.service{
+    background: #f9f9f9;
+
+}
+
+.service-content-item{
+    width: calc(100%/3);
+    margin: 0px 10px;
+    padding: 20px;
+}
+
+.service-content-item:first-child{
+    margin-left: 0px;
+}
+
+.service-content-item:last-child{
+    margin-right: 0px;
+}
+
+.service-content-item i{
+    font-size: 40px;
+    color: #fdd912;
+}
+
+.service-content-item p{
+    font-size: 13px;
+    color: #999999;
+}
+
+.service-content-item h5{
+    font-size: 13px;
+    letter-spacing: 0.1em;
+    color: #292929;
+    font-weight: 500;
+}

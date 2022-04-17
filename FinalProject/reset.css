@@ -1,4 +1,11 @@
 body {
     margin: 0px auto;
+    padding: 0px;
     font-family: 'Poppins', helvetica
+}
+
+.head{
+    font-family: 'Kaushan Script', helvetica;
+    font-size: 30px;
+    padding:0px 20px;
 }
