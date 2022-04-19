@@ -1,14 +1,14 @@
 /*navbar start*/
 
 .navbar-container{
-    width: 1200px;
+    max-width: 1200px;
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
 }
 
 .container{
-    width: 1200px;
+    max-width: 1200px;
     margin: 0px auto;
     height: inherit;
 }
