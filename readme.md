@@ -7,3 +7,7 @@
 ### Modul01-Day13 [18 Aprel 2022]
 
 #### Tapsiriq 1 ve 2 yerine yetirildi
+
+### Modul01-Day14 [19 Aprel 2022]
+
+#### Verilen tapsiriq elave olundu

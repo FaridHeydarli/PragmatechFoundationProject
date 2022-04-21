@@ -18,3 +18,7 @@
 .jcb{
     justify-content: space-between;
 }
+
+.lst{
+    list-style-type: none;
+}

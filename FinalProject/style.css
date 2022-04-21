@@ -41,6 +41,8 @@ a{
 
 .navbar ul li a:hover{
     color: #292929;
+    box-shadow: inset 0 -6px 0 #fdd912;
+	transition: all 0.4s ease 0s;
 }
 .slider{
     background-image: url(./image/slide-bg-1.jpg);
@@ -58,7 +60,7 @@ a{
     left: 0;
     background: #ffffff;
     width: 100%;
-    padding: 20px 20px;
+    padding: 20px 0px;
 }
 
 /* navbar end*/
@@ -90,10 +92,15 @@ a{
 }
 
 
+.about-profil-info{
+    padding: 0px 40px;
+}
+
 .about-profil-info h1{
     font-size: 44px;
     font-family: 'Kaushan Script', cursive;
     font-weight: 400;
+    line-height: 56px;
 }
 
 
@@ -110,11 +117,15 @@ a{
     font-size: 12px;
     color: black;
 }
+
+.about-profil-info a:hover{
+    box-shadow: inset 0 -6px 0 #fdd912;
+	transition: all 0.4s ease 0s;
+}
+
+
 .about-profil img{
-    width: 415px;
-    float: left;
-    padding: 0px 30px 0px 20px;
-    box-sizing: border-box;
+    width: 360px;
 }
 
 /* social end*/
@@ -129,7 +140,7 @@ a{
 .service-content-item{
     width: calc(100%/3);
     margin: 0px 10px;
-    padding: 20px;
+    padding: 0px;
 }
 
 .service-content-item:first-child{
@@ -155,4 +166,31 @@ a{
     letter-spacing: 0.1em;
     color: #292929;
     font-weight: 500;
+}
+/* service end */
+
+/* works start */
+
+.works-content-item{
+    width: calc(100%/3);
+    margin: 20px 20px;
+    transition: 0.5s;
+}
+
+.works-content-item:hover{
+    transform: translateY(-10px);
+    z-index: 2;
+}
+
+.works-content-item img{
+    box-sizing: border-box;
+    width: 100%
+}
+
+.works-content-item:first-child{
+    margin-left: 0px;
+}
+   
+.works-content-item:last-child{
+    margin-right: 0px;
 }
