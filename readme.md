@@ -11,3 +11,5 @@
 ### Modul01-Day14 [19 Aprel 2022]
 
 #### Verilen tapsiriq elave olundu
+
+#### Bezi duzeltmeler elave olundu
