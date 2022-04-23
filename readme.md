@@ -13,3 +13,5 @@
 #### Verilen tapsiriq elave olundu
 
 #### Bezi duzeltmeler elave olundu
+
+#### Novbeti section elave edildi
