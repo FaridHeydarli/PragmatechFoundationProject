@@ -15,3 +15,5 @@
 #### Bezi duzeltmeler elave olundu
 
 #### Novbeti section elave edildi
+
+#### Butun sectionlar tamamladi
