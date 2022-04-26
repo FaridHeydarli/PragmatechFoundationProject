@@ -104,9 +104,6 @@ a{
 
 }
 
-.about-profil-info{
-    padding: 0px 40px;
-}
 
 .about-profil-info h1{
     font-size: 44px;
@@ -124,7 +121,7 @@ a{
 
 
 .about-profil img{
-    width: 360px;
+    width: 90%;
 }
 
 /* social section end*/
@@ -292,7 +289,7 @@ textarea{
     padding-top: 120px;
 }
 
-.history p{
+.footer p{
     font-size: 14px;
     color: #898989;
     padding-bottom: 60px;
