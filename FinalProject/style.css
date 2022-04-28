@@ -21,6 +21,29 @@ a{
     display: flex;
     list-style-type: none;
  }   
+
+ .navbar .mobile{
+    display: none;
+    flex-direction: column-reverse;
+}
+
+#control{
+    display: none;
+}
+
+.control{
+    display: none;
+    cursor: pointer;
+    margin: 14px;
+}
+
+.bars{
+    font-size: 20px;
+    color: black;
+    float: right;
+}
+
+
 .navbar ul li a {
     padding: 0px 25px;
     font-size: 12px;
