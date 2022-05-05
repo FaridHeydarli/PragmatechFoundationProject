@@ -18,4 +18,4 @@
 
 #### Novbeti section elave edildi
 
-#### Butun sectionlar tamamladi
+#### Butun sectionlar tamamlandi
